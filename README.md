@@ -47,7 +47,7 @@ This game will be set in the present/modern day.
 The Menu will consist of four images, each representating a different area or enviroment. 
 In the application all areas will be unlocked automatically to give the user a choice as to which area they may want to begin with.
 
-<img src=".jpeg" alt="GameMenu"
+<img src="BackgroundWithDividers.png" alt="GameMenu"
      title="GameMenu" />
 
 
