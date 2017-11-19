@@ -149,7 +149,6 @@ Task	Group Member	Time Allocated	Completed
 
 | Task    | Group Member         | Time Allocated               | Completed                      |
 |----------------------------------------------------------|-----------------|----------------------|--------------------------------|
-| 1.00        |  Matthew Sides  | November 14, 2017    | Initial Version                |
 |Provide a project specification supported with a definition of the problem |   Sam     | 45 Minutes |  Yes |                 
 | Plan and research your App Game Genre, theme, style, Play and Mechanics| Joe | 45 Minutes | Yes | 
 | Add to mock ups for the games overall story board |    Matthew  |     45 Minutes   |   Yes     | 
@@ -159,23 +158,36 @@ Task	Group Member	Time Allocated	Completed
 
 
 #### Monday 16th Sprint 2
-Task	Group Member	Time Allocated	Completed
-Identify project outcomes using a GANTT chart	Joe and Matthew	30 mins	Yes
-Add possible contingency options against risk, time, technology etc. to overall plan	Luke Shead	30 mins	Yes
-Create a full set of user stories	Luke Bruni	30 mins	Yes
-Use stories to add to the backlog	Sam	30 mins	Yes
-Create this week’s sprint backlog	Sam	30 mins	Yes
+
+
+
+
+
+
+
+| Task    | Group Member         | Time Allocated               | Completed                      |
+|----------------------------------------------------------|-----------------|----------------------|--------------------------------|
+| Identify project outcomes using a GANTT chart|   Joe and Matthew   | 30 mins |  Yes |                 
+| Add possible contingency options against risk, time, technology etc. to overall plan | Luke Shead | 30 Minutes | Yes | 
+| Create a full set of user stories | Luke Bruni |30 mins	Yes |   
+| Create mock ups for your games UI |   Luke Bruni   |   45 minutes    |      Yes       |
+| Use stories to add to the backlog | Sam  |   30 minutes | Yes |                        
+| Create this week’s sprint backlog  |   Sam |      30 minutes    |  Yes    |                                    
+
 
 This week’s sprints first started with our group meeting and discussing what we had achieved before the first week, Luke Shead had created the pitch presentation, Joe and Matthew had created some storyboards of how the app would function, Luke Bruni had created some concept art of the main menu and the artic habitat background and Sam had started the backlog of the previous sprints we had completed. Once we had confirmed that the tasks from last week were complete, we then assigned each other tasks that we needed to complete within a 45 minute timeframe (See in table sprint 1). This sprint was focused on our pitch and adding details to certain parts of our pitch, for example we needed to add more details to our storyboard to include the part where the students would give their pledges. Once we had completed the tasks we took an hour break then moved onto our second sprint. This sprint was more focused on how we would manage our project (see in table sprint 2); a way we are doing this is by creating user stories, so we have clear simple tasks that we can complete in our sprints.
 
-30th October-7th November
-Task	Group Member	Time Allocated	Completed
-Complete Drag-and-drop chain sections of the app	Joe and Luke Shead	5 days	yes
-Complete student pledges part of app	Sam	5 days	yes
-Continue creating animations for the greenhouse gas chains	Matthew	5 days	yes
-Continue creating assets to be used in game	Luke Bruni	5 days	yes
-Test all aspects of the app	All members	5 days	yes
-Continue Project Documentation	Sam	5 days	yes
-Combine all sections of the app, when all sections are done	All members	2 hours	yes
+#### 30th October-7th November
+
+
+| Task    | Group Member         | Time Allocated               | Completed                      |
+|----------------------------------------------------------|-----------------|----------------------|--------------------------------|
+| Complete Drag-and-drop chain sections of the app |  Matthew   | 5 Days |  Yes |                 
+| Complete student pledges part of app | Sam | 5 Days | Yes | 
+| Continue creating assets to be used in game | Luke Bruni | 5 Days |	Yes |   
+| Figure out how to get the app up on the  Ipad |   Joe and Luke shead   |   5 Days    |      Yes       |
+| Test all aspects of the app| All Members  |   5 Days | Yes |                        
+| Continue Project Documentation  |   Sam |      5 Days   |  Yes    |                                    
+|Combine all sections of the app, when all sections are done | 2 hours | Yes|
 
 
