@@ -147,21 +147,16 @@ Monday 16th sprint 1
 
 Task	Group Member	Time Allocated	Completed
 
-| Task    | Group Member         | Date                 | Comments                       |
-|-------------|-----------------|----------------------|--------------------------------|
+| Task    | Group Member         | Time Allocated               | Completed                      |
+|----------------------------------------------------------|-----------------|----------------------|--------------------------------|
 | 1.00        |  Matthew Sides  | November 14, 2017    | Initial Version                |
-|Provide a project specification supported with a definition of the problem	Sam         |                 |                      |                                | 
-|             |                 |                      |                                | 
-|             |                 |                      |                                |
-|             |                 |                      |                                |
-|                                                                                       |                         
+|Provide a project specification supported with a definition of the problem |   Sam     | 45 Minutes |  Yes |                 
+| Plan and research your App Game Genre, theme, style, Play and Mechanics| Joe | 45 Minutes | Yes | 
+| Add to mock ups for the games overall story board |    Matthew  |     45 Minutes   |   Yes     | 
+| Create mock ups for your games UI |   Luke Bruni   |   45 minutes    |      Yes       |
+| Create a full list of features and how it relates to clients requirements |  Luke Shead  |   45 minutes | Yes |                        | Compile, create and practise concept pitch  |   Whole Group |      1 hour    |  Yes    |                                    
 
-Provide a project specification supported with a definition of the problem	Sam	45 minutes	Yes
-Plan and research your App Game Genre, theme, style, Play and Mechanics	Joe 	45 minutes	Yes
-Add to mock ups for the games overall story board	Matthew	45 minutes	Yes
-Create mock ups for your games UI	Luke Bruni	45 minutes	Yes
-Create a full list of features and how it relates to clients requirements	Luke Shead	45 minutes	Yes
-Compile, create and practise concept pitch	Whole Group	1 hour	Yes
+
 
 #### Monday 16th Sprint 2
 Task	Group Member	Time Allocated	Completed
