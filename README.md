@@ -143,9 +143,8 @@ Tasks for 9th-15th
 •	Create storyboard of app (Joe and Matthew)
 •	Start Product Backlog and design flow chart(Sam)
 •	Design concept art (Luke)
-Monday 16th sprint 1
 
-Task	Group Member	Time Allocated	Completed
+#### Monday 16th sprint 1
 
 | Task    | Group Member         | Time Allocated               | Completed                      |
 |----------------------------------------------------------|-----------------|----------------------|--------------------------------|
