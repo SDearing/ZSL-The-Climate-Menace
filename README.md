@@ -168,7 +168,7 @@ Tasks for 9th-15th
 |----------------------------------------------------------|-----------------|----------------------|--------------------------------|
 | Identify project outcomes using a GANTT chart|   Joe and Matthew   | 30 mins |  Yes |                 
 | Add possible contingency options against risk, time, technology etc. to overall plan | Luke Shead | 30 Minutes | Yes | 
-| Create a full set of user stories | Luke Bruni |30 mins	Yes |   
+| Create a full set of user stories | Luke Bruni |30 mins   |	Yes     |   
 | Create mock ups for your games UI |   Luke Bruni   |   45 minutes    |      Yes       |
 | Use stories to add to the backlog | Sam  |   30 minutes | Yes |                        
 | Create this week’s sprint backlog  |   Sam |      30 minutes    |  Yes    |                                    
