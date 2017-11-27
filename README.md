@@ -127,7 +127,7 @@ Schedule
 
 -Monday 9th- Sunday 15th: Create Pitch for project 
 
--Monday 16th October: First Review
+-Tuesday 17th October: First Review
 
 -Monday 16th- Sunday 29th: Develop demo for app and design product design document
 
@@ -155,7 +155,6 @@ Tasks for 9th-15th
 | Create a full list of features and how it relates to clients requirements |  Luke Shead  |   45 minutes | Yes |                        | Compile, create and practise concept pitch  |   Whole Group |      1 hour    |  Yes    |                                    
 
 
-
 #### Monday 16th Sprint 2
 
 
@@ -176,6 +175,9 @@ Tasks for 9th-15th
 
 This week’s sprints first started with our group meeting and discussing what we had achieved before the first week, Luke Shead had created the pitch presentation, Joe and Matthew had created some storyboards of how the app would function, Luke Bruni had created some concept art of the main menu and the artic habitat background and Sam had started the backlog of the previous sprints we had completed. Once we had confirmed that the tasks from last week were complete, we then assigned each other tasks that we needed to complete within a 45 minute timeframe (See in table sprint 1). This sprint was focused on our pitch and adding details to certain parts of our pitch, for example we needed to add more details to our storyboard to include the part where the students would give their pledges. Once we had completed the tasks we took an hour break then moved onto our second sprint. This sprint was more focused on how we would manage our project (see in table sprint 2); a way we are doing this is by creating user stories, so we have clear simple tasks that we can complete in our sprints.
 
+#### Tuesday 17th
+On this date we visited ZSL Whipsnade to present our concept idea to 2 representatives of ZSL. We presented our idea through a powerpoint presentation (Find in the repository). In the presentation we showed our design concept for the main menu of the app
+
 #### 30th October-7th November
 
 
@@ -190,3 +192,4 @@ This week’s sprints first started with our group meeting and discussing what w
 |Combine all sections of the app, when all sections are done | 2 hours | Yes|
 
 
+##Evaluation of Project
