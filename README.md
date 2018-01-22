@@ -114,14 +114,14 @@ Group Name: Ducks and Bucks
 
 Group Members: Luke Shead, Joe Williams, Sam Dearing, Matthew Sides, Luke Bruni
 
-Project Definition
+### Project Definition
 
 Create an app for ZSL that teaches students how greenhouse gases are produced and how they affect certain habitats. Students will be required, at the end of the session, to create a pledge of how they can reduce their greenhouse footprint.
 Project Specification
 
 ZSL has given us the task of creating a web based application for children aged 11-16 which will be used in their climate change sessions. The purpose of the app is to teach students how greenhouse gases are produced and the effects they have of habitats and show them what they/society can do to reduce the levels of greenhouse gases. The app will need to include 4 habitats with their own greenhouse chain that will be displayed to the user: Artic (Plastic Bottles), British Wildlife(Beef), Ocean (Leaving electronics on standby/oil rigging), rainforest (Mobile phones). At the end of the app students will need to create ‘pledges’ of how they will reduce their greenhouse footprint.
 
-Schedule
+### Schedule
 
 -Monday 2nd-Sunday 8th: Create Idea for project
 
@@ -158,11 +158,6 @@ Tasks for 9th-15th
 #### Monday 16th Sprint 2
 
 
-
-
-
-
-
 | Task    | Group Member         | Time Allocated               | Completed                      |
 |----------------------------------------------------------|-----------------|----------------------|--------------------------------|
 | Identify project outcomes using a GANTT chart|   Joe and Matthew   | 30 mins |  Yes |                 
@@ -191,5 +186,6 @@ On this date we visited ZSL Whipsnade to present our concept idea to 2 represent
 | Continue Project Documentation  |   Sam |      5 Days   |  Yes    |                                    
 |Combine all sections of the app, when all sections are done | 2 hours | Yes|
 
+#### 7th November
 
 ## Evaluation of Project
