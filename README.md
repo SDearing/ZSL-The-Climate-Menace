@@ -3,7 +3,7 @@
 ## Design History
 Version 1.0
 
-Produced by Matthew Sides, Sam,Luke,Luke and Joe
+Produced by Matthew Sides, Sam Dearing ,Luke Bruni,Luke Shead and Joe Williams
 
 01/11/2017
 
@@ -192,4 +192,4 @@ On this date we visited ZSL Whipsnade to present our concept idea to 2 represent
 |Combine all sections of the app, when all sections are done | 2 hours | Yes|
 
 
-##Evaluation of Project
+## Evaluation of Project
