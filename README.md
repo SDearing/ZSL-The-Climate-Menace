@@ -147,7 +147,6 @@ We first started with a 1 hour sprint to put our ideas together, we began brains
 •	Create storyboard of app (Joe and Matthew)
 •	Start Product Backlog and design flow chart(Sam)
 •	Design concept art (Luke)
-
 ### Monday 16th sprint 1
 
 | Task    | Group Member         | Time Allocated               | Completed                      |
