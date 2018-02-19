@@ -24,7 +24,9 @@ Produced by Matthew Sides, Sam Dearing ,Luke Bruni,Luke Shead and Joe Williams
 ### Introduction
 
 This document specifies a design for the conceptual features and mechanics (gameplay) of a game with the provisional title “GreenHouse Menace”, commissioned by the Zoological Society of London. It is based on elements discussed in various meetings, held since 2nd October, between cliental (ZSL) and group members involving Matthew, Sam, Joe, Luke and Luke.
-
+### Cost
+* £39 Unity licence
+* 
 ### Scope
 
 This documentation is meant to be read by programmers, artists and producers involved in the design implementation and testing of “GreenHouse Menace”.
@@ -139,9 +141,10 @@ ZSL has given us the task of creating a web based application for children aged 
 
 ### Time Management Plan
 To make sure that we manage time effectively and keep to the deadlines given above in the schedule, we will need to make sure we use effective time management skills. A time management skill we will use is by setting goals/milestones, we will do this because it will help us track our progress as if we hit a milestone within the time we set to complete it we will know that we are working at the right pace. Another time management skill we will use is splitting the workload between each team member, this is so that multiple tasks are being worked on at once, increasing the efficiency of our group as we will be able to complete more tasks than if we worked on each task together.
+### Critical Reasoning Before Development
+The first thing we needed to think about was where we would host our app, we originally thought we could make a downloadable app but as the clients wanted the app on an ipad and the apple store requires a payment to host 
 ### Monday 2nd- 8th
 We first started with a 1 hour sprint to put our ideas together, we began brainstorming ideas of what the main gameplay of the game would be. We decided to go with an item finding game where the user would have to find certain items in environments, which would give the user information based on each item (how greenhouse gases are created by the item etc.). We also decided on a main menu where the user would be able to decide which environment they would be using (this would depend on the environment table they are at in the ZSL session). We then spent the rest of the week fine tuning this idea and creating concepts of how the app interface would look. In our second sprint on the 5th we then decided on the aesthetic of the app, we decided upon using a comic book style as we felt that would be appealing for the children using the app.
-
 ### Tasks for 9th-15th
 •	design App pitch presentation (Luke) 
 •	Create storyboard of app (Joe and Matthew)
@@ -172,10 +175,10 @@ We first started with a 1 hour sprint to put our ideas together, we began brains
 
 
 This week’s sprints first started with our group meeting and discussing what we had achieved before the first week, Luke Shead had created the pitch presentation, Joe and Matthew had created some storyboards of how the app would function, Luke Bruni had created some concept art of the main menu and the artic habitat background and Sam had started the backlog of the previous sprints we had completed. Once we had confirmed that the tasks from last week were complete, we then assigned each other tasks that we needed to complete within a 45 minute timeframe (See in table sprint 1). This sprint was focused on our pitch and adding details to certain parts of our pitch, for example we needed to add more details to our storyboard to include the part where the students would give their pledges. Once we had completed the tasks we took an hour break then moved onto our second sprint. This sprint was more focused on how we would manage our project (see in table sprint 2); a way we are doing this is by creating user stories, so we have clear simple tasks that we can complete in our sprints.
-
 ### Tuesday 17th: First Review
 On this date we visited ZSL Whipsnade to present our concept idea to 2 representatives of ZSL. We presented our idea for the app through a powerpoint presentation (Find in the repository in the file ZSL-climate-change-concept-pitch.pptx). We also used verbal communication to present to our clients about our ideas for the app, we made sure we spoke clearly and slowly so that our points could be fully understood. We also used non verbal communication such as hand gestures to emphasise our points and to keep the client engaged during the presentation so that they can fully understand what our idea is. In the presentation we first showed our aims for the app which were to make students more aware of the issues of climate change, to show them the effects of greenhouse gases, what the main causes of greenhouse gases are and what the students can do to reduce their greenhouse footprint. We also showed our design concept for the main menu for the app which was met with positive feedback. After our presentation we were then given feedback, we found that we had not fully met the clients aims as they wanted us to focus less on the game aspect of the app and instead implement a chain making mechanic that allows the user to create a greenhouse chain.
-
+## Critical Reasoning after First Review
+After obtaining feedback from the ZSL Clients, we realised that we needed to make changes to our app as it did not meet all the client's requirements, which was to focus less on creating a game for the app and to focus on allowing the user to create a green house gas chain, these changes are needed because we have to meet the requirements of the client. To make these changes we are going to remove the item finder mechanic from our app and instead replace it with a section that will show the user all the parts of a chain and will ask then ask the user to create the chain.
 ### 30th October-7th November
 
 
