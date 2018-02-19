@@ -17,6 +17,8 @@ Produced by Matthew Sides, Sam Dearing ,Luke Bruni,Luke Shead and Joe Williams
 
 4.Game Mechanics | InGame Elements
 
+5.Project Backlog
+
 ## GameOverview
 
 ### Introduction
@@ -107,8 +109,8 @@ Jupiter (Menu,Game Screen)
 ### In Game Text
 ....
 
-### ZSL Project Backlog
-Group Details
+## Project Backlog
+### Group Details
 
 Group Name: Ducks and Bucks
 
@@ -135,16 +137,18 @@ ZSL has given us the task of creating a web based application for children aged 
 
 -Tuesday 7th November: Final Presentation
 
-#### Monday 2nd- 8th
+### Time Management Plan
+To make sure that we manage time effectively and keep to the deadlines given above in the schedule, we will need to make sure we use effective time management skills. A time management skill we will use is by setting goals/milestones, we will do this because it will help us track our progress as if we hit a milestone within the time we set to complete it we will know that we are working at the right pace. Another time management skill we will use is splitting the workload between each team member, this is so that multiple tasks are being worked on at once, increasing the efficiency of our group as we will be able to complete more tasks than if we worked on each task together.
+### Monday 2nd- 8th
 We first started with a 1 hour sprint to put our ideas together, we began brainstorming ideas of what the main gameplay of the game would be. We decided to go with an item finding game where the user would have to find certain items in environments, which would give the user information based on each item (how greenhouse gases are created by the item etc.). We also decided on a main menu where the user would be able to decide which environment they would be using (this would depend on the environment table they are at in the ZSL session). We then spent the rest of the week fine tuning this idea and creating concepts of how the app interface would look. In our second sprint on the 5th we then decided on the aesthetic of the app, we decided upon using a comic book style as we felt that would be appealing for the children using the app.
 
-Tasks for 9th-15th
+### Tasks for 9th-15th
 •	design App pitch presentation (Luke) 
 •	Create storyboard of app (Joe and Matthew)
 •	Start Product Backlog and design flow chart(Sam)
 •	Design concept art (Luke)
 
-#### Monday 16th sprint 1
+### Monday 16th sprint 1
 
 | Task    | Group Member         | Time Allocated               | Completed                      |
 |----------------------------------------------------------|-----------------|----------------------|--------------------------------|
@@ -155,7 +159,7 @@ Tasks for 9th-15th
 | Create a full list of features and how it relates to clients requirements |  Luke Shead  |   45 minutes | Yes |                        | Compile, create and practise concept pitch  |   Whole Group |      1 hour    |  Yes    |                                    
 
 
-#### Monday 16th Sprint 2
+### Monday 16th Sprint 2
 
 
 | Task    | Group Member         | Time Allocated               | Completed                      |
@@ -170,10 +174,10 @@ Tasks for 9th-15th
 
 This week’s sprints first started with our group meeting and discussing what we had achieved before the first week, Luke Shead had created the pitch presentation, Joe and Matthew had created some storyboards of how the app would function, Luke Bruni had created some concept art of the main menu and the artic habitat background and Sam had started the backlog of the previous sprints we had completed. Once we had confirmed that the tasks from last week were complete, we then assigned each other tasks that we needed to complete within a 45 minute timeframe (See in table sprint 1). This sprint was focused on our pitch and adding details to certain parts of our pitch, for example we needed to add more details to our storyboard to include the part where the students would give their pledges. Once we had completed the tasks we took an hour break then moved onto our second sprint. This sprint was more focused on how we would manage our project (see in table sprint 2); a way we are doing this is by creating user stories, so we have clear simple tasks that we can complete in our sprints.
 
-#### Tuesday 17th: First Review
+### Tuesday 17th: First Review
 On this date we visited ZSL Whipsnade to present our concept idea to 2 representatives of ZSL. We presented our idea through a powerpoint presentation (Find in the repository under ZSL-climate-change-concept-pitch.pptx). In the presentation we first showed are aims for the app which were to make students more aware of the issues of climate change, to show them the effects of greenhouse gases, what the main causes of greenhouse gases are and what the students can do to reduce their greenhouse footprint. We also showed our design concept for the main menu for the app which was met with positive feedback. After our presentation we were then given feedback, 
 
-#### 30th October-7th November
+### 30th October-7th November
 
 
 | Task    | Group Member         | Time Allocated               | Completed                      |
@@ -186,6 +190,6 @@ On this date we visited ZSL Whipsnade to present our concept idea to 2 represent
 | Continue Project Documentation  |   Sam |      5 Days   |  Yes    |                                    
 |Combine all sections of the app, when all sections are done| All Members | 2 hours | Yes|
 
-#### 7th November
+### 7th November
 
 ## Evaluation of Project
