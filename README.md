@@ -141,6 +141,8 @@ ZSL has given us the task of creating a web based application for children aged 
 
 ### Time Management Plan
 To make sure that we manage time effectively and keep to the deadlines given above in the schedule, we will need to make sure we use effective time management skills. A time management skill we will use is by setting goals/milestones, we will do this because it will help us track our progress as if we hit a milestone within the time we set to complete it we will know that we are working at the right pace. Another time management skill we will use is splitting the workload between each team member, this is so that multiple tasks are being worked on at once, increasing the efficiency of our group as we will be able to complete more tasks than if we worked on each task together.
+### Gantt Chart for Development
+![Gantt Chart](https://github.com/SDearing/ZSL-The-Climate-Menace/blob/master/Gantt%20Chart.PNG)
 ### Critical Reasoning Before Development
 The first thing we needed to think about was where we would host our app, we originally thought we could make a downloadable app but as the clients wanted the app on an ipad and the apple store requires a payment to host 
 ### Monday 2nd- 8th
