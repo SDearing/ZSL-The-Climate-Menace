@@ -124,7 +124,17 @@ Create an app for ZSL that teaches students how greenhouse gases are produced an
 Project Specification
 
 ZSL has given us the task of creating a web based application for children aged 11-16 which will be used in their climate change sessions. The purpose of the app is to teach students how greenhouse gases are produced and the effects they have of habitats and show them what they/society can do to reduce the levels of greenhouse gases. The app will need to include 4 habitats with their own greenhouse chain that will be displayed to the user: Artic (Plastic Bottles), British Wildlife(Beef), Ocean (Leaving electronics on standby/oil rigging), rainforest (Mobile phones). At the end of the app students will need to create ‘pledges’ of how they will reduce their greenhouse footprint.
-
+### Tools and Techniques Needed for the Project
+#### Tools
+The following are tools needed to complete for this project:
+* Microsoft Powerpoint: We will need this software when we present our concept pitch and our final design and demo to the client. This software will be helpful as it will be able to present our pitches for the app in a clear and structured manner.
+* Unity: Unity will be the software we use to construct our app. Unity is a game engine that will help us in the contruction of menus and scenes in our app.
+* Microsoft Excel: This software is used for creating spreadsheets. We will use excel to create gantt charts to plan out the amount of time we will spend on each aspect of the software development, so we can manage our time effectively.
+#### Techniques
+The following are techniques needed to complete this project:
+* Interviews: During this development process we will interview our client, the first will be for the client to present their requirements for the app. During this interview, we will take extensive notes to ensure we remember and understand the requirements of the clients. The other interview will be when we present the final version of the app.
+* Presentations: It is vital that we have good presentation skills, this is so we can keep the clients attention during the presentations and to make sure our ideas for the app are presented in a clear and interesting manner.
+* Prototyping: While developing our app, we will first create a version of the app which will only fufil some of the requirements of the user, creating the first prototype. We will then develop upon the prototype to add more features to the app creating a new prototype, we will then iterate this process and until the app is fully developed.
 ### Schedule
 
 -Monday 2nd-Sunday 8th: Create Idea for project
