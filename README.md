@@ -11,7 +11,7 @@ Produced by Matthew Sides, Sam Dearing ,Luke Bruni,Luke Shead and Joe Williams
 
 1.Design History
 
-2.Game Overview
+2.Project Management Plan
 
 3.Specification
 
@@ -19,19 +19,27 @@ Produced by Matthew Sides, Sam Dearing ,Luke Bruni,Luke Shead and Joe Williams
 
 5.Project Backlog
 
-## GameOverview
+## Project Management Plan
 
 ### Introduction
 
 This document specifies a design for the conceptual features and mechanics (gameplay) of a game with the provisional title “GreenHouse Menace”, commissioned by the Zoological Society of London. It is based on elements discussed in various meetings, held since 2nd October, between cliental (ZSL) and group members involving Matthew, Sam, Joe, Luke and Luke.
 ### Cost
 * £39 Unity licence
+* Cost of our tutor getting mini-van licence so we can visit ZSL Whipsnade to present our app
 * 
 ### Scope
-
-This documentation is meant to be read by programmers, artists and producers involved in the design implementation and testing of “GreenHouse Menace”.
-
-
+* This app is aimed towards students aged 12-16, this is because this is the age of the students that go to the sessions at ZSL to learn about climate change.
+* We thought about adding a leaderboard to the end of the app to implement some competiveness between the students, however we felt like this was out of the scope as we feel we wouldn't have enough time to implement this and it may divert from the information we are trying to teach the students.
+* We also decided the scope of the platform for the app will be web-based, this is because ZSL wants to put the app on their website 
+### Time
+We were given the first breif from ZSL on the 2nd of October and we have until the 7th of November where we will be presenting the final demo for our app.
+### How we will Assure Quality
+We will assure quality in our app, by first creating a detailed development plan in the form of a gantt chart, this is so we can assure that we know how much time we should be spending on each task, meaning that we manage our time effectively and allows us to be aware when we are falling behind.
+Another way we will assure quality is by vigorously testing our app once we feel development has been completed. This will make sure we find and fix any errors or bugs within the app, to assure that it works properly when we present the app to ZSL.
+### Communication
+Our group will meet 3 times a week at the college, during these meetings we will discuss our progress on our tasks and what tasks we need to do for the upcoming week. While we are not at the college we will create a group on facebook for the purpose of discussing the project, we will use this group to ask for help on tasks. We will also create a google drive so that we can share the work we complete, this will allow us to use any work that is needed for other tasks and assure we are all working up to date.
+### Risk
 ## Specification
 
 ### Concept
@@ -154,7 +162,7 @@ To make sure that we manage time effectively and keep to the deadlines given abo
 ### Gantt Chart for Development
 ![Gantt Chart](https://github.com/SDearing/ZSL-The-Climate-Menace/blob/master/Gantt%20Chart.PNG)
 ### Critical Reasoning Before Development
-The first thing we needed to think about was where we would host our app, we originally thought we could make a downloadable app but as the clients wanted the app on an ipad and the apple store requires a payment to host 
+The first thing we needed to think about was where we would host our app as where we would host it would affect the way we implement our code, we originally thought we could make a downloadable app but as the clients wanted the app on an ipad and the apple store requires a payment to host a developed app, we decided to make the app web-based. A benefit of using a 
 ### Monday 2nd- 8th
 We first started with a 1 hour sprint to put our ideas together, we began brainstorming ideas of what the main gameplay of the game would be. We decided to go with an item finding game where the user would have to find certain items in environments, which would give the user information based on each item (how greenhouse gases are created by the item etc.). We also decided on a main menu where the user would be able to decide which environment they would be using (this would depend on the environment table they are at in the ZSL session). We then spent the rest of the week fine tuning this idea and creating concepts of how the app interface would look. In our second sprint on the 5th we then decided on the aesthetic of the app, we decided upon using a comic book style as we felt that would be appealing for the children using the app.
 ### Tasks for 9th-15th
