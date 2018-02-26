@@ -207,7 +207,7 @@ We first started with a 1 hour sprint to put our ideas together, we began brains
 This week’s sprints first started with our group meeting and discussing what we had achieved before the first week, Luke Shead had created the pitch presentation, Joe and Matthew had created some storyboards of how the app would function, Luke Bruni had created some concept art of the main menu and the artic habitat background and Sam had started the backlog of the previous sprints we had completed. Once we had confirmed that the tasks from last week were complete, we then assigned each other tasks that we needed to complete within a 45 minute timeframe (See in table sprint 1). This sprint was focused on our pitch and adding details to certain parts of our pitch, for example we needed to add more details to our storyboard to include the part where the students would give their pledges. Once we had completed the tasks we took an hour break then moved onto our second sprint. This sprint was more focused on how we would manage our project (see in table sprint 2); a way we are doing this is by creating user stories, so we have clear simple tasks that we can complete in our sprints.
 ### Tuesday 17th: First Review
 On this date we visited ZSL Whipsnade to present our concept idea to 2 representatives of ZSL. We presented our idea for the app through a powerpoint presentation (Find in the repository in the file ZSL-climate-change-concept-pitch.pptx). We also used verbal communication to present to our clients about our ideas for the app, we made sure we spoke clearly and slowly so that our points could be fully understood. We also used non verbal communication such as hand gestures to emphasise our points and to keep the client engaged during the presentation so that they can fully understand what our idea is. In the presentation we first showed our aims for the app which were to make students more aware of the issues of climate change, to show them the effects of greenhouse gases, what the main causes of greenhouse gases are and what the students can do to reduce their greenhouse footprint. We also showed our design concept for the main menu for the app which was met with positive feedback. After our presentation we were then given feedback, we found that we had not fully met the clients aims as they wanted us to focus less on the game aspect of the app and instead implement a chain making mechanic that allows the user to create a greenhouse chain.
-## Critical Reasoning after First Review
+### Critical Reasoning after First Review
 After obtaining feedback from the ZSL Clients, we realised that we needed to make changes to our app as it did not meet all the client's requirements, which was to focus less on creating a game for the app and to focus on allowing the user to create a green house gas chain, these changes are needed because we have to meet the requirements of the client. To make these changes we are going to remove the item finder mechanic from our app and instead replace it with a section that will show the user all the parts of a chain and will ask then ask the user to create the chain.
 ### 30th October-7th November
 
@@ -222,6 +222,24 @@ After obtaining feedback from the ZSL Clients, we realised that we needed to mak
 | Continue Project Documentation  |   Sam |      5 Days   |  Yes    |                                    
 |Combine all sections of the app, when all sections are done| All Members | 2 hours | Yes|
 
-### 7th November
+## Quantitative Research
+To assure that our app fitted ZSL's standards we created a survey for classmates and other members of the college to fill out. We would first get the participant to play through our app, we would then give them the survey containing questions that needed to be ranked 1-10 1 being strongly disagree and 10 being stringly agree.The purpose of the survey was to find out the public opinion on our app and to see if we were fufilling the requirements of our project.
+### Question 1: I could easily understand the affects of Climate Change from this App
+Average Score: 8.1 
+The purpose of this question was to see if our app clearly conveyed the topics ZSL wanted us to convey to the students. The high average score shows us that our app presents this information in a clear way
+### Question 2: I find this app interesting and fun to play.
+Average Score 5.6
+The purpose of this question was to see if our app is engaging for the students that would be using the app in the ZSL sessions. The medium score shows that our app is somewhat interesting to play but if given more time to develop the app, we should make efforts to make the app more interesting, so that we can assure the students are fully engaged and learn.
+### Question 3: This app is rightly suited for students aged 11-16.
+Average Score 7.2
+The purpose of this question is to make sure that our app is suited for the target audience. The high average score indicates that we have targeted our app for the right audience, and assures us that we do not need to make any changes to the way we present the information of climate change to students.
+## Qualititave Research
+For our qualititave research we asked our client, in the concept pitch for our app, to provide any feedback for our app. This is so we could fully design our app to our clients need and see if there was any areas that needed improvement on the app.
+
+The clients feedback was extremely helpful. First they complimented the aesthetic of the app, saying it was "suited for their target audience", they also liked the way we structured our menu and said it was "easy to understand" and it was "structured very suitibly". The only issue they had with our menu was was that the colour for the writing in our menu did not stick out well and in some lighting was hard to read. We assured we would get this fixed by their next review.
+
+The main point of criticism that ZSL had was that they felt that we had not focused on the chains of the climate change. ZSL felt that we had focused too much on the game aspect of the app and not the information that they wanted us to present. ZSL wanted us to change the main gameplay of our app to focus more on the construction of the green house affect chain so ZSl could be sure that the app was presenting the information that they wanted the students to learn, and to avoid from the students being more interested in the game aspect of the app, rather than them focusing on the education aspect. At the end of the day ZSL is the client so we have to follow their instructions so we agreed that we would change the gameplay of the app, to focus on the creation of greenhouse chains for the students to remember.
+
+Overall this feedback was very useful as it guarenteed that we were working to the clients standards and gave us a clear direction in the changes we needed to make to our app.
 
 ## Evaluation of Project
