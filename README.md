@@ -27,7 +27,8 @@ This document specifies a design for the conceptual features and mechanics (game
 ### Cost
 * £39 Unity licence
 * Cost of our tutor getting mini-van licence so we can visit ZSL Whipsnade to present our app
-* 
+* Around £500 per member for a desktop computer, keyboard and mouse to complete tasks
+* £20 for any needed assets for our app to make it look more appealing to ZSL
 ### Scope
 * This app is aimed towards students aged 12-16, this is because this is the age of the students that go to the sessions at ZSL to learn about climate change.
 * We thought about adding a leaderboard to the end of the app to implement some competiveness between the students, however we felt like this was out of the scope as we feel we wouldn't have enough time to implement this and it may divert from the information we are trying to teach the students.
@@ -39,7 +40,16 @@ We will assure quality in our app, by first creating a detailed development plan
 Another way we will assure quality is by vigorously testing our app once we feel development has been completed. This will make sure we find and fix any errors or bugs within the app, to assure that it works properly when we present the app to ZSL.
 ### Communication
 Our group will meet 3 times a week at the college, during these meetings we will discuss our progress on our tasks and what tasks we need to do for the upcoming week. While we are not at the college we will create a group on facebook for the purpose of discussing the project, we will use this group to ask for help on tasks. We will also create a google drive so that we can share the work we complete, this will allow us to use any work that is needed for other tasks and assure we are all working up to date.
-### Risk
+### Risks
+* Hardware Issues: During the development process some hardware of a computer that we are using may become faulty, this would massively delay development as the user of that computer would not be able to complete any of their tasks until that computer is fixed. This delay could prevent us from completing this project for the deadline. To reduce this risk we will make sure that we are using multiple computers with the required software to get our work done, i.e. one computer and one computer at home, so that if an issue happens with one system work can continue on the other. 
+* Schedule Issues: Another risk is that we do not assign our time to do tasks correctly, this could be an issue because, for example, if we assign too little time for a task, we will obviously become behind schedule which could either lead to more time being wasted to correct the schedule, or we will have to skip tasks so we can keep to the schedule. None of these choices are ideal so it is ideal that our schedule is as realistic as possible. To assure we do not assign too little time for a task, we will make sure we give more than adequate time for each task, this makes sure that the tasks will be completed within the given timeframe and if completed with time to spare means that tasks can be worked on ahead of schedule.
+* Personal Issues: During the development process a member/ members may be struck with illness or personal issues, this would result in them being unable to continue development until the issue was resolved, which could result in our app not being completed by the deadline set by the client. This risk will be reduced by making sure we have access to the work we are completing, this makes sure that if a member is disposed we can access their work and complete their tasks until they can work again. This may slow development time in the short-term but it assures that we can continue development in-spite of a member not being availible, instead of having to pause development until they can work again.
+### Resources
+* Microsoft Powerpoint: We will need this software when we present our concept pitch and our final design and demo to the client. This software will be helpful as it will be able to present our pitches for the app in a clear and structured manner.
+* Unity: Unity will be the software we use to construct our app. Unity is a game engine that will help us in the contruction of menus and scenes in our app.
+* Microsoft Excel: This software is used for creating spreadsheets. We will use excel to create gantt charts to plan out the amount of time we will spend on each aspect of the software development, so we can manage our time effectively.
+* At least 5 Desktop computers: This is so we can have a computer for each member of our team, this means that we can all be developing our app at the same time, increasing the effeciency of our work.
+* Internet Connection: This is so we can be connected up to the internet, this is so we can research solutions to possible problems that could occur during the development process. 
 ## Specification
 
 ### Concept
