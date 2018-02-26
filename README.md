@@ -242,4 +242,3 @@ The main point of criticism that ZSL had was that they felt that we had not focu
 
 Overall this feedback was very useful as it guarenteed that we were working to the clients standards and gave us a clear direction in the changes we needed to make to our app.
 
-## Evaluation of Project
