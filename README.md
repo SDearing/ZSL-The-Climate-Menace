@@ -5,8 +5,6 @@ Version 1.0
 
 Produced by Matthew Sides, Sam Dearing ,Luke Bruni,Luke Shead and Joe Williams
 
-01/11/2017
-
 ## Table of contents
 
 1.Design History
@@ -24,6 +22,21 @@ Produced by Matthew Sides, Sam Dearing ,Luke Bruni,Luke Shead and Joe Williams
 ### Introduction
 
 This document specifies a design for the conceptual features and mechanics (gameplay) of a game with the provisional title “GreenHouse Menace”, commissioned by the Zoological Society of London. It is based on elements discussed in various meetings, held since 2nd October, between cliental (ZSL) and group members involving Matthew, Sam, Joe, Luke and Luke.
+### Project Definition
+
+Create an app for ZSL that teaches students how greenhouse gases are produced and how they affect certain habitats. Students will be required, at the end of the session, to create a pledge of how they can reduce their greenhouse footprint.
+Project Specification
+
+ZSL has given us the task of creating a web based application for children aged 11-16 which will be used in their climate change sessions. The purpose of the app is to teach students how greenhouse gases are produced and the effects they have of habitats and show them what they/society can do to reduce the levels of greenhouse gases. The app will need to include 4 habitats with their own greenhouse chain that will be displayed to the user: Artic (Plastic Bottles), British Wildlife(Beef), Ocean (Leaving electronics on standby/oil rigging), rainforest (Mobile phones). At the end of the app students will need to create ‘pledges’ of how they will reduce their greenhouse footprint.
+### Overall Aims and Objectives
+#### Aims
+Below are the overall aims for the project that we will need to take into account to complete this project fully for the client.
+1. Create a clear menu that could be understood by a student aged 11 and above
+2. The app must present accurate information on the affects of climate change on different environments and greenhouse chains from those environments, showing how greenhouse gases are produced.
+3. Implement a interactive drag and drop game in the app.
+4. Include a pledge system in the app, which will allow the user to create a pledge of how they will reduce their greenhouse footprint.
+#### Objectives
+Below are the objectives that I will need to complete to achieve the aims above, with time frames and 
 ### Cost
 * £39 Unity licence
 * Cost of our tutor getting mini-van licence so we can visit ZSL Whipsnade to present our app
