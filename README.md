@@ -158,6 +158,12 @@ Group Name: Ducks and Bucks
 
 Group Members: Luke Shead, Joe Williams, Sam Dearing, Matthew Sides, Luke Bruni
 
+Roles:
+Luke Shead: Project Manager and 
+Joe Williams: Programmer and Research
+Sam Dearing: Scrum Manager and Research
+Matthew Sides: Programmer and Artist
+Luke Bruni: Head Artistic Director and Research
 ### Project Definition
 
 Create an app for ZSL that teaches students how greenhouse gases are produced and how they affect certain habitats. Students will be required, at the end of the session, to create a pledge of how they can reduce their greenhouse footprint.
