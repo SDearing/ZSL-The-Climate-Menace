@@ -36,7 +36,16 @@ Below are the overall aims for the project that we will need to take into accoun
 3. Implement a interactive drag and drop game in the app.
 4. Include a pledge system in the app, which will allow the user to create a pledge of how they will reduce their greenhouse footprint.
 #### Objectives
-Below are the objectives that I will need to complete to achieve the aims above, with time frames and 
+Below are the objectives that I will need to complete to achieve the aims above, with time frames, how the success of the objective will be measured.
+
+|Objective                             | Time Frame                  | How it will be Measured                                         |
+|--------------------------------------|-----------------------------|-----------------------------------------------------------------|
+|Research facts about each climate and how greenhouse gases are produced there.|1 week: This will be conducted in the first week of development, as the research is vital for making sure the app works|When we have a greenhouse chain for each environment (Tundra , Rainforest, British Wildlife, Ocean) and facts on how greenhouse gases affect each said environment.|
+|Research how to make menus in Unity|1 week: This will be conducted in the first week of development as this research is vital for creating most of the components of our app| When we are able to make menus in Unity, without the aid of any tutorials.|
+|Develop Visual Assets for the app| 1 month: This will take a month as we only have one artist and to make sure all assets are up to the clients standards | When we have all assets for the app, such as backgrounds for each environment and for scenes in between user gameplay.|
+|Implement a fully working drag and drop game for each environment which allows students to construct greenhouse chains | 3 weeks: This is so we have enough time to fully develop and test this section of the app| When we have 4 fully working drag and drop sections of the app, which will allow the user to create a greenhouse chain for each environment.|
+|Implement a 'Pledge Creation' Section for the App| 1 week: This will be completed near the end of the development process as we believe that the work needed for this task will not be as large as the drag and drop sections| When there is a section of the app, which allows the user to choose from a list of given pledges that illustrate how the user can reduce their greenhouse footprint|
+
 ### Cost
 * £39 Unity licence
 * Cost of our tutor getting mini-van licence so we can visit ZSL Whipsnade to present our app
