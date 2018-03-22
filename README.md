@@ -195,6 +195,8 @@ To make sure that we manage time effectively and keep to the deadlines given abo
 ![Gantt Chart](https://github.com/SDearing/ZSL-The-Climate-Menace/blob/master/Gantt%20Chart.PNG)
 Above is the gantt chart we used for the project, we used a gantt chart so that we could have a rough allocation of time for each task and so we could allocate contingency times incase we came into any issues during the project, for example a work member being ill and the rest of the team being unable to access their work.
 ### Burndown Chart for Project
+![BurnDown](https://github.com/SDearing/ZSL-The-Climate-Menace/blob/master/ZSLburndown.jpg)
+Above is a burndown graph which documents the time we predicted to complete the tasks (the bold straight line) compared to the actual progress of completion. As you can see we worked slightly behind schedule at the beginning of the project but after the mid point we begin to complete tasks quicker and even finish development 2 days early.  
 ### Critical Reasoning Before Development
 The first thing we needed to think about was where we would host our app as where we would host it would affect the way we implement our code, we originally thought we could make a downloadable app but as the clients wanted the app on an ipad and the apple store requires a payment to host a developed app, we decided to make the app web-based. A benefit of using a web based app is that it can be accessed by anyone with a internet connection and the web address, this allows us to easily show versions of our app to the client.
 ### Monday 2nd- 8th
