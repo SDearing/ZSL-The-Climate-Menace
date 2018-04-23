@@ -262,7 +262,7 @@ After obtaining feedback from the ZSL Clients, we realised that we needed to mak
 |Combine all sections of the app, when all sections are done| All Members | 2 hours | Yes|
 
 ## Quantitative Research
-To assure that our app fitted ZSL's standards we created a survey for classmates and other members of the college to fill out. We would first get the participant to play through our app, we would then give them the survey containing questions that needed to be ranked 1-10 1 being strongly disagree and 10 being stringly agree.The purpose of the survey was to find out the public opinion on our app and to see if we were fufilling the requirements of our project.
+To assure that our app fitted ZSL's standards we created a survey for classmates and other members of the college to fill out. We would first get the participant to play through our app, we would then give them the survey containing questions that needed to be ranked 1-10, 1 being strongly disagree and 10 being strongly agree.The purpose of the survey was to find out the public opinion on our app and to see if we were fufilling the aims of our project.
 ### Question 1: I could easily understand the affects of Climate Change from this App
 Average Score: 8.1 
 The purpose of this question was to see if our app clearly conveyed the topics ZSL wanted us to convey to the students. The high average score shows us that our app presents this information in a clear way
@@ -279,5 +279,5 @@ The clients feedback was extremely helpful. First they complimented the aestheti
 
 The main point of criticism that ZSL had was that they felt that we had not focused on the chains of the climate change. ZSL felt that we had focused too much on the game aspect of the app and not the information that they wanted us to present. ZSL wanted us to change the main gameplay of our app to focus more on the construction of the green house affect chain so ZSl could be sure that the app was presenting the information that they wanted the students to learn, and to avoid from the students being more interested in the game aspect of the app, rather than them focusing on the education aspect. At the end of the day ZSL is the client so we have to follow their instructions so we agreed that we would change the gameplay of the app, to focus on the creation of greenhouse chains for the students to remember.
 
-Overall this feedback was very useful as it guarenteed that we were working to the clients standards and gave us a clear direction in the changes we needed to make to our app.
+Overall this feedback was very useful as it guaranteed that we were working to the clients standards and gave us a clear direction in the changes we needed to make to our app.
 
