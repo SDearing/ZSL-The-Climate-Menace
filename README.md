@@ -182,6 +182,7 @@ The following are techniques needed to complete this project:
 * Interviews: During this development process we will interview our client, the first will be for the client to present their requirements for the app. During this interview, we will take extensive notes to ensure we remember and understand the requirements of the clients. The other interview will be when we present the final version of the app.
 * Presentations: It is vital that we have good presentation skills, this is so we can keep the clients attention during the presentations and to make sure our ideas for the app are presented in a clear and interesting manner.
 * Prototyping: While developing our app, we will first create a version of the app which will only fufil some of the requirements of the user, creating the first prototype. We will then develop upon the prototype to add more features to the app creating a new prototype, we will then iterate this process and until the app is fully developed.
+* SCRUM: SCRUM was used to break down the aims of our project into user stories/objectives to plan out the project, to ensure that we complete the aims given by ZSL fully. We completed user stories by planning multiple sprints to ensure that the work was completed.
 ### Schedule
 
 -Monday 2nd-Sunday 8th: Create Idea for project
@@ -214,7 +215,7 @@ We first started with a 1 hour sprint to put our ideas together, we began brains
 •	Start Product Backlog and design flow chart(Sam)
 •	Design concept art (Luke)
 ### How Software and User Requirements have been Addressed
-We have used the objectives previously stated in the ‘overall aims and objectives’ we have designed multiple planned sprints with different tasks for each member of our group. These tasks have also been given time frames of when each task should be completed. The completion of these tasks are vital to meet the user and software requirements given to us by ZSL.
+We have used the aims previously stated in the ‘overall aims and objectives’ we have designed multiple planned sprints, using the SCRUM model, with different tasks for each member of our group (see below). This is so the project can be borken down further, so that we can fully meet the requirements of the project. These tasks have also been given time frames of when each task should be completed. The completion of these tasks are vital to meet the user and software requirements given to us by ZSL. 
 ### Monday 16th sprint 1
 
 | Task    | Group Member         | Time Allocated               | Completed                      |
