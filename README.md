@@ -36,7 +36,7 @@ Below are the overall aims for the project that we will need to take into accoun
 3. Implement a interactive drag and drop game in the app.
 4. Include a pledge system in the app, which will allow the user to create a pledge of how they will reduce their greenhouse footprint.
 #### Objectives
-Below are the objectives that I will need to complete to achieve the aims above, with time frames, how the success of the objective will be measured.
+Below are the objectives that I will need to complete to achieve the aims above, with time frames and how the success of the objective will be measured.
 
 |Objective                             | Time Frame                  | How it will be Measured                                         |
 |--------------------------------------|-----------------------------|-----------------------------------------------------------------|
@@ -248,7 +248,7 @@ We used verbal communication when addressing the client and when elaborating upo
 Also during the presentation we used non verbal techniques such as hand gestures to emphasise talking points and to keep the client engaged during the presentation, we also used hand gestures to point to certain sections of the presentation so that we could be absolutely sure the client knew what part of the pitch we were on.
 ### Critical Reasoning after First Review
 After obtaining feedback from the ZSL Clients, we realised that we needed to make changes to our app as it did not meet all the client's requirements, which was to focus less on creating a game for the app and to focus on allowing the user to create a green house gas chain, these changes are needed because we have to meet the requirements of the client. To make these changes we are going to remove the item finder mechanic from our app and instead replace it with a section that will show the user all the parts of a chain and will ask then ask the user to create the chain.
-### 30th October-7th November
+### 30th October-7th November Sprint 3
 
 
 | Task    | Group Member         | Time Allocated               | Completed                      |
@@ -275,7 +275,7 @@ The purpose of this question is to make sure that our app is suited for the targ
 ## Qualititave Research
 For our qualititave research we asked our client, in the concept pitch for our app, to provide any feedback for our app. This is so we could fully design our app to our clients need and see if there was any areas that needed improvement on the app.
 
-The clients feedback was extremely helpful. First they complimented the aesthetic of the app, saying it was "suited for their target audience", they also liked the way we structured our menu and said it was "easy to understand" and it was "structured very suitibly". The only issue they had with our menu was was that the colour for the writing in our menu did not stick out well and in some lighting was hard to read. We assured we would get this fixed by their next review.
+The clients feedback was extremely helpful. First they complimented the aesthetic of the app, saying it was "suited for their target audience", they also liked the way we structured our menu and said it was "easy to understand" and it was "structured very suitably". The only issue they had with our menu was was that the colour for the writing in our menu did not stick out well and in some lighting was hard to read. We assured we would get this fixed by their next review.
 
 The main point of criticism that ZSL had was that they felt that we had not focused on the chains of the climate change. ZSL felt that we had focused too much on the game aspect of the app and not the information that they wanted us to present. ZSL wanted us to change the main gameplay of our app to focus more on the construction of the green house affect chain so ZSl could be sure that the app was presenting the information that they wanted the students to learn, and to avoid from the students being more interested in the game aspect of the app, rather than them focusing on the education aspect. At the end of the day ZSL is the client so we have to follow their instructions so we agreed that we would change the gameplay of the app, to focus on the creation of greenhouse chains for the students to remember.
 
