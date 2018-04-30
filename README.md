@@ -174,8 +174,9 @@ ZSL has given us the task of creating a web based application for children aged 
 #### Tools
 The following are tools needed to complete for this project:
 * Microsoft Powerpoint: We will need this software when we present our concept pitch and our final design and demo to the client. This software will be helpful as it will be able to present our pitches for the app in a clear and structured manner.
-* Unity: Unity will be the software we use to construct our app. Unity is a game engine that will help us in the contruction of menus and scenes in our app.
-* Microsoft Excel: This software is used for creating spreadsheets. We will use excel to create gantt charts to plan out the amount of time we will spend on each aspect of the software development, so we can manage our time effectively.
+* Unity: Unity will be the software we use to construct our app. Unity is a game engine that will help us in the construction of menus and scenes in our app.
+* Microsoft Excel: This software is used for creating spreadsheets. We will use excel to create gantt charts to plan out the amount of time we will spend on each stage of the software development, so we can manage our time effectively.
+* Photoshop: This software is used as a editor for images, this will be used to create the assets for our app, meaning the background images on the app and images in the scenes describing climate change.
 #### Techniques
 The following are techniques needed to complete this project:
 * Interviews: During this development process we will interview our client, the first will be for the client to present their requirements for the app. During this interview, we will take extensive notes to ensure we remember and understand the requirements of the clients. The other interview will be when we present the final version of the app.
@@ -272,7 +273,7 @@ The purpose of this question was to see if our app is engaging for the students 
 ### Question 3: This app is rightly suited for students aged 11-16.
 Average Score 7.2
 The purpose of this question is to make sure that our app is suited for the target audience. The high average score indicates that we have targeted our app for the right audience, and assures us that we do not need to make any changes to the way we present the information of climate change to students.
-## Qualititave Research
+## Qualitative Research
 For our qualititave research we asked our client, in the concept pitch for our app, to provide any feedback for our app. This is so we could fully design our app to our clients need and see if there was any areas that needed improvement on the app.
 
 The clients feedback was extremely helpful. First they complimented the aesthetic of the app, saying it was "suited for their target audience", they also liked the way we structured our menu and said it was "easy to understand" and it was "structured very suitably". The only issue they had with our menu was was that the colour for the writing in our menu did not stick out well and in some lighting was hard to read. We assured we would get this fixed by their next review.
