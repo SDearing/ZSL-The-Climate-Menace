@@ -213,6 +213,8 @@ We first started with a 1 hour sprint to put our ideas together, we began brains
 •	Create storyboard of app (Joe and Matthew)
 •	Start Product Backlog and design flow chart(Sam)
 •	Design concept art (Luke)
+### How Software and User Requirements have been Addressed
+We have used the objectives previously stated in the ‘overall aims and objectives’ we have designed multiple planned sprints with different tasks for each member of our group. These tasks have also been given time frames of when each task should be completed. The completion of these tasks are vital to meet the user and software requirements given to us by ZSL.
 ### Monday 16th sprint 1
 
 | Task    | Group Member         | Time Allocated               | Completed                      |
