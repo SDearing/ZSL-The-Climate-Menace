@@ -215,7 +215,7 @@ We first started with a 1 hour sprint to put our ideas together, we began brains
 •	Start Product Backlog and design flow chart(Sam)
 •	Design concept art (Luke)
 ### How Software and User Requirements have been Addressed
-We have used the aims previously stated in the ‘overall aims and objectives’ we have designed multiple planned sprints, using the SCRUM model, with different tasks for each member of our group (see below). This is so the project can be borken down further, so that we can fully meet the requirements of the project. These tasks have also been given time frames of when each task should be completed. The completion of these tasks are vital to meet the user and software requirements given to us by ZSL. 
+We have used the aims previously stated in the ‘overall aims and objectives’ we have designed multiple planned sprints, using the SCRUM model, with different tasks for each member of our group (see below). This is so the project can be broken down further, so that we can fully meet the requirements of the project. These tasks have also been given time frames of when each task should be completed. The completion of these tasks are vital to meet the user and software requirements given to us by ZSL. 
 ### Monday 16th sprint 1
 
 | Task    | Group Member         | Time Allocated               | Completed                      |
@@ -227,7 +227,7 @@ We have used the aims previously stated in the ‘overall aims and objectives’
 | Create a full list of features and how it relates to clients requirements |  Luke Shead  |   45 minutes | Yes |                        | Compile, create and practise concept pitch  |   Whole Group |      1 hour    |  Yes    |                                    
 
 
-### Monday 16th Sprint 2
+### Monday 23rd Sprint 2
 
 
 | Task    | Group Member         | Time Allocated               | Completed                      |
